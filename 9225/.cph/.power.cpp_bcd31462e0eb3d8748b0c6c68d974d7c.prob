@@ -1,0 +1,1 @@
+{"name":"Local: power","url":"c:\\not a file\\9225\\power.cpp","tests":[{"id":1739063449915,"input":"4 3 30 20","output":"1093631377"},{"id":1739063474181,"input":"2 3 30 30","output":"205836473"},{"id":1739063497369,"input":"2 3 3 2","output":"17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\9225\\power.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\not a file\\test.cpp","tests":[{"id":1738250423992,"input":"5","output":"You just typed a number 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\test.cpp","group":"local","local":true}

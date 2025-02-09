@@ -1,0 +1,1 @@
+{"name":"Local: mul13","url":"c:\\not a file\\mul13.cpp","tests":[{"id":1738591261985,"input":"1 20","output":"197"},{"id":1738591273772,"input":"100 200","output":"13954"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\mul13.cpp","group":"local","local":true}

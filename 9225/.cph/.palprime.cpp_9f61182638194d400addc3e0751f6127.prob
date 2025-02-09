@@ -1,0 +1,1 @@
+{"name":"Local: palprime","url":"c:\\not a file\\9225\\palprime.cpp","tests":[{"id":1739066975341,"input":"12","output":"2\n3\n5\n7\n11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\9225\\palprime.cpp","group":"local","local":true}

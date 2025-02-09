@@ -1,0 +1,1 @@
+{"name":"Local: MIN","url":"c:\\Users\\thaiq\\OneDrive\\Documents\\not a file\\MIN.cpp","tests":[{"id":1737296228846,"input":"8 25\n3 5 10 30 25 27 29 26","output":"27"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\thaiq\\OneDrive\\Documents\\not a file\\MIN.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: sdb","url":"c:\\not a file\\sdb.cpp","tests":[{"id":1738659098414,"input":"88 858","output":"11605"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\sdb.cpp","group":"local","local":true}

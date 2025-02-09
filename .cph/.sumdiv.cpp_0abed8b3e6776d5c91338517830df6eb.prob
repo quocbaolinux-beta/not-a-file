@@ -1,0 +1,1 @@
+{"name":"Local: sumdiv","url":"c:\\not a file\\sumdiv.cpp","tests":[{"id":1737470952751,"input":"6\n1\n6\n3\n12\n5\n30","output":"1 \n12 \n4 \n28 \n6 \n72"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\sumdiv.cpp","group":"local","local":true}

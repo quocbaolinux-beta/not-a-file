@@ -1,0 +1,1 @@
+{"name":"Local: demgao","url":"c:\\not a file\\demgao.cpp","tests":[{"id":1738659979851,"input":"3 10 5","output":"2"},{"id":1738659989847,"input":"6 9 5","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\demgao.cpp","group":"local","local":true}

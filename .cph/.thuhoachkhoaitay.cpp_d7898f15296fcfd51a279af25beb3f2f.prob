@@ -1,0 +1,1 @@
+{"name":"Local: thuhoachkhoaitay","url":"c:\\not a file\\thuhoachkhoaitay.cpp","tests":[{"id":1738590222311,"input":"1 3","output":"1"},{"id":1738590234640,"input":"3 4","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\thuhoachkhoaitay.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: stri","url":"c:\\not a file\\stri.cpp","tests":[{"id":1738941081217,"input":"67 37 96","output":"911.92"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\stri.cpp","group":"local","local":true}

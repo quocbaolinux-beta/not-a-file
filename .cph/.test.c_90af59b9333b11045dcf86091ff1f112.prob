@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\not a file\\test.c","tests":[{"id":1738504790740,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\test.c","group":"local","local":true}

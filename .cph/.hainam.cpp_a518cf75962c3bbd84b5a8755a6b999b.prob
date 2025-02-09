@@ -1,0 +1,1 @@
+{"name":"Local: hainam","url":"c:\\not a file\\hainam.cpp","tests":[{"id":1737556869805,"input":"5 2\n1 2 5 14 3","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\hainam.cpp","group":"local","local":true}

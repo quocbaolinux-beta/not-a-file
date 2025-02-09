@@ -1,0 +1,1 @@
+{"name":"Local: timso","url":"c:\\not a file\\timso.py","tests":[{"id":1739066030689,"input":"3 \n10","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\timso.py","group":"local","local":true}

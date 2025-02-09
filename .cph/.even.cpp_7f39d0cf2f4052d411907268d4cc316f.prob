@@ -1,0 +1,1 @@
+{"name":"Local: even","url":"c:\\Users\\thaiq\\OneDrive\\Documents\\not a file\\even.cpp","tests":[{"id":1737295435393,"input":"1 15","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\thaiq\\OneDrive\\Documents\\not a file\\even.cpp","group":"local","local":true}

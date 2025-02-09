@@ -1,0 +1,1 @@
+{"name":"Local: timmin","url":"c:\\not a file\\9225\\timmin.cpp","tests":[{"id":1739068929751,"input":"2\n2014","output":"01"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\9225\\timmin.cpp","group":"local","local":true}
