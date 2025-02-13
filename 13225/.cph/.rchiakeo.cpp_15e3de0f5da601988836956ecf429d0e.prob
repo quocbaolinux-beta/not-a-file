@@ -1,0 +1,1 @@
+{"name":"Local: rchiakeo","url":"c:\\not a file\\13225\\rchiakeo.cpp","tests":[{"id":1739438047952,"input":"29 1\n32","output":"9"},{"id":1739438063634,"input":"32 5\n13\n8\n9\n2\n15","output":"47"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\13225\\rchiakeo.cpp","group":"local","local":true}
