@@ -1,0 +1,1 @@
+{"name":"Local: chiabanh","url":"c:\\not a file\\13225\\chiabanh.cpp","tests":[{"id":1739437469413,"input":"6 2 6 5 3 3 7 2","output":"19"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\13225\\chiabanh.cpp","group":"local","local":true}
