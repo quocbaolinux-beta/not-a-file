@@ -1,0 +1,1 @@
+{"name":"Local: athorua","url":"c:\\not a file\\13225\\athorua.cpp","tests":[{"id":1739434584753,"input":"7\n3\n1\n4\n2","output":"HOA"},{"id":1739434600291,"input":"50\n12\n2\n10\n1","output":"THO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\13225\\athorua.cpp","group":"local","local":true}
