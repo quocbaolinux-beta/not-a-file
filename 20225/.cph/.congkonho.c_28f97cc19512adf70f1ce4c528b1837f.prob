@@ -1,0 +1,1 @@
+{"name":"Local: congkonho","url":"c:\\not a file\\20225\\congkonho.c","tests":[{"id":1740061197200,"input":"612 401","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\20225\\congkonho.c","group":"local","local":true}

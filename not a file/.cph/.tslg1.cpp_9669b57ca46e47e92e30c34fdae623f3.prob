@@ -1,0 +1,1 @@
+{"name":"Local: tslg1","url":"c:\\Users\\Wattesigma\\Documents\\not a file\\tslg1.cpp","tests":[{"id":1736864871425,"input":"-1","output":"sin(-1) = -0.84"},{"id":1736864898594,"input":"25","output":"sin(25) = -0.13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Wattesigma\\Documents\\not a file\\tslg1.cpp","group":"local","local":true}

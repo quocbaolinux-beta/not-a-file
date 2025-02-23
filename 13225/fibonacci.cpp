@@ -14,4 +14,4 @@ int main()
         f[i]=f[i-1]+f[i-2];
     cout << f[n]%mod;
     return 0;
-}
+}   // This is a snippet from fibonacci.cpp

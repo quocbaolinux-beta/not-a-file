@@ -1,0 +1,1 @@
+{"name":"Local: goldbach","url":"/home/wattesigma/Documents/not a file/goldbach.cpp","tests":[{"id":1736216472507,"input":"2\n14\n24","output":"3 11\n5 19"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/wattesigma/Documents/not a file/goldbach.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: BPAIRS","url":"d:\\DOCUMENTS\\TinDoiTuyen\\BPAIRS\\BPAIRS.cpp","tests":[{"id":1735955525065,"input":"5\n3 8 21 17 12","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DOCUMENTS\\TinDoiTuyen\\BPAIRS\\BPAIRS.cpp","group":"local","local":true}

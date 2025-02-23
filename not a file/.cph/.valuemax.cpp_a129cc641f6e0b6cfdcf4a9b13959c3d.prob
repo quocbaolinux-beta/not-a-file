@@ -1,0 +1,1 @@
+{"name":"Local: valuemax","url":"c:\\Users\\Wattesigma\\Documents\\not a file\\valuemax.cpp","tests":[{"id":1737250101584,"input":"2\n7\n1","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Wattesigma\\Documents\\not a file\\valuemax.cpp","group":"local","local":true}

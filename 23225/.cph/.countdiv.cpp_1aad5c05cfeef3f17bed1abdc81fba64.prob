@@ -1,0 +1,1 @@
+{"name":"Local: countdiv","url":"c:\\not a file\\23225\\countdiv.cpp","tests":[{"id":1740270795653,"input":"10","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\23225\\countdiv.cpp","group":"local","local":true}

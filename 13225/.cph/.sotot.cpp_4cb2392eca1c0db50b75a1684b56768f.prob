@@ -1,0 +1,1 @@
+{"name":"Local: sotot","url":"c:\\not a file\\13225\\sotot.cpp","tests":[{"id":1739666447916,"input":"124 123","output":"124"},{"id":1739666461317,"input":"111 3","output":"3"},{"id":1739666466870,"input":"10 10","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\13225\\sotot.cpp","group":"local","local":true}
