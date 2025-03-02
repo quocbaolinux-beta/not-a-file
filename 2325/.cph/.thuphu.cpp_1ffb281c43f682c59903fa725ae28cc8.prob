@@ -1,0 +1,1 @@
+{"name":"Local: thuphu","url":"c:\\not a file\\2325\\thuphu.cpp","tests":[{"id":1740928456986,"input":"3 4 0 2 1\n0 0 0 0 3\n3 0 1 0 0","output":"3\n1 4\n1 5\n2 5"},{"id":1740928503173,"input":"2 0 1\n0 3 0","output":"1\n2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\2325\\thuphu.cpp","group":"local","local":true}
