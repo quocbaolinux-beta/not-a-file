@@ -1,0 +1,1 @@
+{"name":"Local: rote","url":"c:\\not a file\\27324\\thutht\\rote.cpp","tests":[{"id":1743081403331,"input":"9 9 9 9\n1 2 3 4\n5 6 7 8\n2\n1 2","output":"1 9 9 4\n5 9 9 8\n6 2 7 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\27324\\thutht\\rote.cpp","group":"local","local":true}

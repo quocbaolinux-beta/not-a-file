@@ -1,0 +1,1 @@
+{"name":"Local: phantich","url":"c:\\not a file\\30325\\phantich.cpp","tests":[{"id":1743303613547,"input":"10","output":"2\n30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\30325\\phantich.cpp","group":"local","local":true}

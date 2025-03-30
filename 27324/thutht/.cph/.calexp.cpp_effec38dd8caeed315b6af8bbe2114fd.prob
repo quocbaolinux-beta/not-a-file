@@ -1,0 +1,1 @@
+{"name":"Local: calexp","url":"c:\\not a file\\27324\\thutht\\calexp.cpp","tests":[{"id":1743080522251,"input":"1\n2","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\27324\\thutht\\calexp.cpp","group":"local","local":true}
