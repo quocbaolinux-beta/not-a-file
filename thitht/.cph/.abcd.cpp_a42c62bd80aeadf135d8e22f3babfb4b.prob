@@ -1,0 +1,1 @@
+{"name":"Local: abcd","url":"c:\\not a file\\thitht\\abcd.cpp","tests":[{"id":1743325288597,"input":"0 \n1  \n3  \n5  \n9  ","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\thitht\\abcd.cpp","group":"local","local":true}
