@@ -1,0 +1,1 @@
+{"name":"Local: kytucu","url":"c:\\not a file\\31325\\kytucu.cpp","tests":[{"id":1743433384070,"input":"a","output":"A"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\31325\\kytucu.cpp","group":"local","local":true}

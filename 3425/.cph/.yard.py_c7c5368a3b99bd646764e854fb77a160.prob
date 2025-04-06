@@ -1,0 +1,1 @@
+{"name":"Local: yard","url":"c:\\not a file\\3425\\yard.py","tests":[{"id":1743692192639,"input":"6 6 4","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\3425\\yard.py","group":"local","local":true}
