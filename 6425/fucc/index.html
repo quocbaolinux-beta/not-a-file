@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fucc</title>
+</head>
+<body>
+    <div class="center">
+        <h1>fucc</h1>
+        <p>fucc is a simple web application that allows you to create and manage your own personal notes.</p>
+        <p>To get started, click the button below:</p>
+        <button onclick="window.location.href='create_note.html'">Create a Note</button>
+        <p>Or view your existing notes:</p>
+    </div>
+    <div class="notes-list">
+        <ul>
+            <li><a href="note1.html">Note 1</a></li>
+            <li><a href="note2.html">Note 2</a></li>
+            <li><a href="note3.html">Note 3</a></li>
+        </ul>
+    </div>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+        }
+        .center {
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .notes-list {
+            margin-top: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</body>
+</html>

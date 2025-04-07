@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Note</title>
+</head>
+<body>
+    <div class="center">
+        <h1>Create a Note</h1>
+        <form action="save_note.php" method="POST">
+            <label for="note_title">Title:</label><br>
+            <input type="text" id="note_title" name="note_title" required><br><br>
+            <label for="note_content">Content:</label><br>
+            <textarea id="note_content" name="note_content" rows="10" cols="30" required></textarea><br><br>
+            <button type="submit">Save Note</button>
+        </form>
+    </div>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+        }
+        .center {
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+        <script>
+            // JavaScript code can be added here if needed
+            // For example, you can add form validation or other functionalities
+             document.getElementById('note_form').onsubmit = function() {
+                 // Perform validation or other actions before submitting the form
+                 return true; // Allow form submission
+             };
+
+        </script>   
+    </div>
+    <div class="notes-list">
+        <h2>Your Notes</h2>
+        <ul>
+            <li><a href="note1.html">Note 1</a></li>
+            <li><a href="note2.html">Note 2</a></li>
+            <li><a href="note3.html">Note 3</a></li>
+        </ul>
+    </div>
+    <style>
+        .notes-list {
+            margin-top: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+    <script>
+        // JavaScript code can be added here if needed
+        // For example, you can add form validation or other functionalities
+        document.getElementById('note_form').onsubmit = function() {
+            // Perform validation or other actions before submitting the form
+            return true; // Allow form submission
+        };
+    </script> 
+</body>
+</html>
