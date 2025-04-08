@@ -1,0 +1,1 @@
+{"name":"Local: bai123","url":"c:\\not a file\\8425\\bai123.py","tests":[{"id":1744122837740,"input":"8 3","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\8425\\bai123.py","group":"local","local":true}
