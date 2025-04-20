@@ -1,0 +1,1 @@
+{"name":"Local: supprime","url":"c:\\not a file\\20425\\supprime.cpp","tests":[{"id":1745160124060,"input":"4\n31 18 19 7331","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\20425\\supprime.cpp","group":"local","local":true}
