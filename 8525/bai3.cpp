@@ -4,9 +4,9 @@ using ll = long long;
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL); cout.tie(NULL);
-    freopen("bai3.inp", "r", stdin);
-    freopen("bai3.out", "w", stdout);
-    int n, k;
+    //freopen("bai3.inp", "r", stdin);
+    //freopen("bai3.out", "w", stdout);
+    long long int n, k;
     cin >> n >> k;
     vector<ll>a(n+1), su(n+1,0), ec(n+1,0);
     for(ll i=1; i<=n; i++){
