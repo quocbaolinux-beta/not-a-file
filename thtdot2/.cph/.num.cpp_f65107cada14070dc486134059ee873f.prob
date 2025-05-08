@@ -1,0 +1,1 @@
+{"name":"Local: num","url":"c:\\not a file\\thtdot2\\num.cpp","tests":[{"id":1745737847123,"input":"2\n5 6","output":"2"},{"id":1745737852679,"input":"2\n5 10","output":"1"},{"id":1745737858931,"input":"5\n1 2 3 4 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\thtdot2\\num.cpp","group":"local","local":true}

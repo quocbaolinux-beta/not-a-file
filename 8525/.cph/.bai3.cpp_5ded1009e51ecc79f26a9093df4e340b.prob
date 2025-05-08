@@ -1,0 +1,1 @@
+{"name":"Local: bai3","url":"c:\\not a file\\8525\\bai3.cpp","tests":[{"id":1746692768188,"input":"5 2\n2 3 -8 13 -20","output":"1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\8525\\bai3.cpp","group":"local","local":true}

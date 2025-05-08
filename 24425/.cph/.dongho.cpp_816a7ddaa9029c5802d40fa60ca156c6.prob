@@ -1,0 +1,1 @@
+{"name":"Local: dongho","url":"c:\\not a file\\24425\\dongho.cpp","tests":[{"id":1745715800682,"input":"20 55","output":"21 0"},{"id":1745715808012,"input":"2 32","output":"2 32"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\24425\\dongho.cpp","group":"local","local":true}

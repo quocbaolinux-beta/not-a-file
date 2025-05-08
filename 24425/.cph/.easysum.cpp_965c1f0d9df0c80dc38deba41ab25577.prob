@@ -1,0 +1,1 @@
+{"name":"Local: easysum","url":"c:\\not a file\\24425\\easysum.cpp","tests":[{"id":1746433727871,"input":"4","output":"-2"},{"id":1746433733467,"input":"5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\24425\\easysum.cpp","group":"local","local":true}

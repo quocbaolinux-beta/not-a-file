@@ -1,0 +1,1 @@
+{"name":"Local: nbpow","url":"c:\\not a file\\21425\\nbpow.py","tests":[{"id":1745333727155,"input":"2 5","output":"32"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\21425\\nbpow.py","group":"local","local":true}

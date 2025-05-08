@@ -1,0 +1,1 @@
+{"name":"Local: nbexp2","url":"c:\\not a file\\24425\\nbexp2.cpp","tests":[{"id":1745807188882,"input":"2 8 6 1 11","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\24425\\nbexp2.cpp","group":"local","local":true}
