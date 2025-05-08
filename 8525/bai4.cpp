@@ -3,18 +3,13 @@
 #define ld long double
 #define pb push_back
 using namespace std;
-ll n, dem, tong;
-bool cp(ll n){
-    ld sqr=sqrtl(n);
-    ll rd=round(sqr);
-    return rd*rd==n;
-}
+ll n;
 int demcp(ll x) {
-    ll sum = 0;
-    int count = 0;
-    for (ll i = 1;; ++i) {
-        ll sq = i * i;
-        if (sum + sq > x) break;
+    ll sum=0;
+    int count=0;
+    for (ll i=1;;++i) {
+        ll sq=i*i;
+        if (sum+sq>x) break;
         sum += sq;
         count++;
     }
