@@ -1,0 +1,1 @@
+{"name":"Local: pnumber","url":"c:\\not a file\\8525\\pnumber.cpp","tests":[{"id":1746719653327,"input":"1 10","output":"2\n3\n5\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\8525\\pnumber.cpp","group":"local","local":true}

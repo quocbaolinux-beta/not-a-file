@@ -1,0 +1,1 @@
+{"name":"Local: pttb","url":"c:\\not a file\\9525\\pttb.cpp","tests":[{"id":1746947708848,"input":"8\n2 2 2 5 8 3 5 7","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\9525\\pttb.cpp","group":"local","local":true}

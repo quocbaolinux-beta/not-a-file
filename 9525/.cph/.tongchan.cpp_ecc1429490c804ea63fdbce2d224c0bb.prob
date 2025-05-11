@@ -1,0 +1,1 @@
+{"name":"Local: tongchan","url":"c:\\not a file\\9525\\tongchan.cpp","tests":[{"id":1746950767056,"input":"5\n2 7 1 4 2","output":"4\r\n"},{"id":1746950787259,"input":"5\n2 4 7 8 6","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\9525\\tongchan.cpp","group":"local","local":true}
