@@ -1,0 +1,1 @@
+{"name":"Local: ezarr8","url":"c:\\not a file\\15525\\ezarr8.cpp","tests":[{"id":1747408653650,"input":"5 6\n3 5 2 8 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\not a file\\15525\\ezarr8.cpp","group":"local","local":true}
